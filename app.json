@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#050914",
+        "foregroundImage": "./assets/android-icon-foreground.png"
+      },
+      "package": "one.flowmap.chain"
+    },
+    "icon": "./assets/icon.png",
+    "ios": {
+      "bundleIdentifier": "one.flowmap.chain",
+      "supportsTablet": false
+    },
+    "name": "チェーン全体マップ",
+    "orientation": "portrait",
+    "scheme": "flowmapchain",
+    "slug": "42-flowmap",
+    "splash": {
+      "backgroundColor": "#050914",
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain"
+    },
+    "userInterfaceStyle": "dark",
+    "version": "0.1.0"
+  }
+}
